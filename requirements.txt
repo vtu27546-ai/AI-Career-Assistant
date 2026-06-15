@@ -6,3 +6,4 @@ python-docx
 reportlab
 pyttsx3
 SpeechRecognition
+bcrypt
